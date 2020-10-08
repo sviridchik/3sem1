@@ -1,0 +1,10 @@
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/bin/Debug/netcoreapp3.1/isplab1.deps.json
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/bin/Debug/netcoreapp3.1/isplab1.runtimeconfig.json
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/bin/Debug/netcoreapp3.1/isplab1.runtimeconfig.dev.json
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/bin/Debug/netcoreapp3.1/isplab1.dll
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/bin/Debug/netcoreapp3.1/isplab1.pdb
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/obj/Debug/netcoreapp3.1/isplab1.csprojAssemblyReference.cache
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/obj/Debug/netcoreapp3.1/isplab1.AssemblyInfoInputs.cache
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/obj/Debug/netcoreapp3.1/isplab1.AssemblyInfo.cs
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/obj/Debug/netcoreapp3.1/isplab1.dll
+/Users/victoriasviridchik/RiderProjects/isplab1/isplab1/obj/Debug/netcoreapp3.1/isplab1.pdb
